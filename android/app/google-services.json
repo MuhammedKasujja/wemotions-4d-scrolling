@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "928195985771",
+    "project_id": "pleasurebee-dev2",
+    "storage_bucket": "pleasurebee-dev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928195985771:android:0f1d4c03f7ff8d2b268c2e",
+        "android_client_info": {
+          "package_name": "com.wemotions.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928195985771-0o12jb5mnmeebdc3ssh75raoviocrn0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "9812375b523c50603a9c4e0fb87613968f762e65"
+          }
+        },
+        {
+          "client_id": "928195985771-6abb2j7i3m8sgu1bi58i6rvdhdlf269v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "c95a2574a48c56003ae8e23f751646475fcb6b42"
+          }
+        },
+        {
+          "client_id": "928195985771-7lk3g4prrdenop563dahj9l0gg7nb10p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "61917dfd7151d74c0b926acb2db057d933796ff7"
+          }
+        },
+        {
+          "client_id": "928195985771-8el01m4bbd29ucuri72rphjmbqie813k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "3645248c765455075fd9fd7955e9567b64d3e7eb"
+          }
+        },
+        {
+          "client_id": "928195985771-cnj2j0115cptong32ol0mb26s87rc64h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "568de9c0b15605dacc4c233342aed81515bccaa2"
+          }
+        },
+        {
+          "client_id": "928195985771-dfjjrmbn8i4mlfshood7ss1eg46j9icj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "084817f42ea749acd43027f3ef7346bf5e56a73f"
+          }
+        },
+        {
+          "client_id": "928195985771-h0vfuc0382ocosvi58v8sub66pdnq6m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "8b051899036a2cf5a46fc9da331dabb3a6107c30"
+          }
+        },
+        {
+          "client_id": "928195985771-kf9va0muumgfpub6ub6caa7nq55v0h1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "a0f711e565a64fc849072c2d57b90e77afddc5e1"
+          }
+        },
+        {
+          "client_id": "928195985771-me5kccrgknbt6uihc4me4ht07lbg2l82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "09ff603c77b23bdacf2d6b39b14ca8ec9df751c6"
+          }
+        },
+        {
+          "client_id": "928195985771-nvt3rb1g7lklolfo6mpdlep7sb80grl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "50775ab4331ba71b9cd1cca724e0648591c0fdb4"
+          }
+        },
+        {
+          "client_id": "928195985771-sn1bds0sng2up465an1faesmmiqahcgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "be9c2bd37b4ca5050c06283ae616aea8671068e4"
+          }
+        },
+        {
+          "client_id": "928195985771-ucvikqejefkv60l22m5gf0188pcs0702.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemotions.app",
+            "certificate_hash": "c20261d5784fafd6acfbb7a51cab9b4a0fc2951f"
+          }
+        },
+        {
+          "client_id": "928195985771-1junckj5b0li4v6trsgt4b570rvfkebh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjldZxoHDUbCNnpj8eNZwuHMMQ8Hc6AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928195985771-1junckj5b0li4v6trsgt4b570rvfkebh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
