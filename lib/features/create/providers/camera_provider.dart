@@ -1,6 +1,6 @@
 import 'dart:developer';
-import 'package:ffmpeg_kit_flutter/ffmpeg_kit.dart';
-import 'package:ffmpeg_kit_flutter/return_code.dart';
+import 'package:ffmpeg_kit_16kb/ffmpeg_kit.dart';
+import 'package:ffmpeg_kit_16kb/return_code.dart';
 import 'package:screen_brightness/screen_brightness.dart';
 import 'package:socialverse/export.dart';
 

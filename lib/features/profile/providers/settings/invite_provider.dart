@@ -1,4 +1,4 @@
-import 'package:contacts_service/contacts_service.dart';
+import 'package:contacts_service_plus/contacts_service_plus.dart';
 import 'package:dio/dio.dart';
 import 'package:socialverse/export.dart';
 

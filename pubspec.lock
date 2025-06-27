@@ -289,14 +289,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.19.1"
-  contacts_service:
+  contacts_service_plus:
     dependency: "direct main"
     description:
-      name: contacts_service
-      sha256: f6d5ea33b31dfcdcd2e65d8abdc836502e04ddb0f66a96aa726fa9891ea9671e
+      name: contacts_service_plus
+      sha256: "9bf5adc7324a75f1da7e4ea6f1c5496cc156f7c3d433019ae2f0b0962d2e5c24"
       url: "https://pub.dev"
     source: hosted
-    version: "0.6.3"
+    version: "0.0.2"
   convert:
     dependency: transitive
     description:
@@ -405,26 +405,18 @@ packages:
     dependency: transitive
     description:
       name: ffi
-      sha256: "16ed7b077ef01ad6170a3d0c57caa4a112a38d7a2ed5602e0aca9ca6f3d98da6"
+      sha256: "289279317b4b16eb2bb7e271abccd4bf84ec9bdcbe999e278a94b804f5630418"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.3"
-  ffmpeg_kit_flutter:
+    version: "2.1.4"
+  ffmpeg_kit_16kb:
     dependency: "direct main"
     description:
-      name: ffmpeg_kit_flutter
-      sha256: "843aae41823ca94a0988d975b4b6cdc6948744b9b7e2707d81a3a9cd237b0100"
+      name: ffmpeg_kit_16kb
+      sha256: "8ecefe5edf3539bf9bdad9be597ef6655a51e0eb937e48542fe5b77758b44787"
       url: "https://pub.dev"
     source: hosted
-    version: "6.0.3"
-  ffmpeg_kit_flutter_platform_interface:
-    dependency: transitive
-    description:
-      name: ffmpeg_kit_flutter_platform_interface
-      sha256: addf046ae44e190ad0101b2fde2ad909a3cd08a2a109f6106d2f7048b7abedee
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.2.1"
+    version: "1.0.3"
   file:
     dependency: transitive
     description:
@@ -664,54 +656,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.2.1"
-  google_identity_services_web:
-    dependency: transitive
-    description:
-      name: google_identity_services_web
-      sha256: "5d187c46dc59e02646e10fe82665fc3884a9b71bc1c90c2b8b749316d33ee454"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.3.3+1"
-  google_sign_in:
-    dependency: "direct main"
-    description:
-      name: google_sign_in
-      sha256: dba1a1a79368d8ca464bf36ef94f528851efa9925e4a28bfc4aaefb1f5da2fc4
-      url: "https://pub.dev"
-    source: hosted
-    version: "7.0.0"
-  google_sign_in_android:
-    dependency: transitive
-    description:
-      name: google_sign_in_android
-      sha256: dc03996c6f95ef8191bae220006029f8cec6a83d6c03c43191ca8cd35e5bbbcb
-      url: "https://pub.dev"
-    source: hosted
-    version: "7.0.1"
-  google_sign_in_ios:
-    dependency: transitive
-    description:
-      name: google_sign_in_ios
-      sha256: "59937a674827540d12253415626ec24cc7e633bb785e2d2ca4f1580323e55a0c"
-      url: "https://pub.dev"
-    source: hosted
-    version: "6.0.0"
-  google_sign_in_platform_interface:
-    dependency: transitive
-    description:
-      name: google_sign_in_platform_interface
-      sha256: "8736443134d2cccadd4f228d600177cb3947e36683466a6ab96877ce6932885a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.0.0"
-  google_sign_in_web:
-    dependency: transitive
-    description:
-      name: google_sign_in_web
-      sha256: "09ac306b2787b48f19c857b9f93375b654f774643c75bd6a1a078c85f4f7b468"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.0"
   graphs:
     dependency: transitive
     description:
@@ -792,14 +736,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "7.1.0"
-  image_gallery_saver:
+  image_gallery_saver_plus:
     dependency: "direct main"
     description:
-      name: image_gallery_saver
-      sha256: "0aba74216a4d9b0561510cb968015d56b701ba1bd94aace26aacdd8ae5761816"
+      name: image_gallery_saver_plus
+      sha256: "199b9e24f8d85e98f11e3d35571ab68ae50626ad40e2bb85c84383f69a6950ad"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.3"
+    version: "4.0.1"
   image_picker:
     dependency: "direct main"
     description:
@@ -1000,14 +944,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.4.4"
-  move_to_background:
-    dependency: "direct main"
-    description:
-      name: move_to_background
-      sha256: "00caad17a6ce149910777131503f43f8ed80025681f94684e3a6a87d979b914c"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.2"
   nested:
     dependency: transitive
     description:
@@ -1256,14 +1192,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.1"
-  qr_code_scanner:
+  qr_code_scanner_plus:
     dependency: "direct main"
     description:
-      name: qr_code_scanner
-      sha256: f23b68d893505a424f0bd2e324ebea71ed88465d572d26bb8d2e78a4749591fd
+      name: qr_code_scanner_plus
+      sha256: "39696b50d277097ee4d90d4292de36f38c66213a4f5216a06b2bdd2b63117859"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.1"
+    version: "2.0.10+1"
   qr_flutter:
     dependency: "direct main"
     description:
@@ -1276,18 +1212,10 @@ packages:
     dependency: transitive
     description:
       name: quiver
-      sha256: b1c1ac5ce6688d77f65f3375a9abb9319b3cb32486bdc7a1e0fdf004d7ba4e47
+      sha256: ea0b925899e64ecdfbf9c7becb60d5b50e706ade44a85b2363be2a22d88117d2
       url: "https://pub.dev"
     source: hosted
-    version: "3.2.1"
-  receive_sharing_intent:
-    dependency: "direct main"
-    description:
-      name: receive_sharing_intent
-      sha256: ec76056e4d258ad708e76d85591d933678625318e411564dcb9059048ca3a593
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.8.1"
+    version: "3.2.2"
   rxdart:
     dependency: transitive
     description:
@@ -1822,13 +1750,13 @@ packages:
     source: hosted
     version: "1.0.5"
   win32:
-    dependency: "direct overridden"
+    dependency: "direct main"
     description:
       name: win32
-      sha256: "5a751eddf9db89b3e5f9d50c20ab8612296e4e8db69009788d6c8b060a84191c"
+      sha256: "66814138c3562338d05613a6e368ed8cfb237ad6d64a9e9334be3f309acfca03"
       url: "https://pub.dev"
     source: hosted
-    version: "4.1.4"
+    version: "5.14.0"
   xdg_directories:
     dependency: transitive
     description:
@@ -1854,5 +1782,5 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=3.7.0-0 <4.0.0"
+  dart: ">=3.8.1 <4.0.0"
   flutter: ">=3.27.0"
