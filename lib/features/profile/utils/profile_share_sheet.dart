@@ -1,5 +1,6 @@
 import 'package:socialverse/export.dart';
 import 'package:line_icons/line_icons.dart';
+import 'package:unicons/unicons.dart';
 
 class ProfileShareSheet extends StatelessWidget {
   final String? dynamicLink;

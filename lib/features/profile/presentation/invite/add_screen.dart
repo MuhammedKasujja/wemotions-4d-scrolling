@@ -1,5 +1,6 @@
 
 import 'package:socialverse/export.dart';
+import 'package:unicons/unicons.dart';
 
 
 class AddFriendsScreen extends StatefulWidget {

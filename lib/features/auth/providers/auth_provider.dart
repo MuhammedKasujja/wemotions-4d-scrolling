@@ -373,14 +373,14 @@ class AuthProvider extends ChangeNotifier {
   }
 
   Future<void> signInWithGoogle() async {
-    final GoogleSignInAccount? googleUser = await GoogleSignIn(scopes: ["profile", "email"],).signIn();
+    // final GoogleSignInAccount? googleUser = await GoogleSignIn(scopes: ["profile", "email"],).signIn();
 
-    final GoogleSignInAuthentication? googleAuth =
-        await googleUser?.authentication;
+    // final GoogleSignInAuthentication? googleAuth =
+    //     await googleUser?.authentication;
 
     final credential = fb.GoogleAuthProvider.credential(
-      accessToken: googleAuth?.accessToken,
-      idToken: googleAuth?.idToken,
+      accessToken: 'googleAuth?.accessToken',
+      idToken: 'googleAuth?.idToken',
     );
 
     fb.User? user =

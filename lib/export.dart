@@ -27,7 +27,7 @@ export 'package:image_picker/image_picker.dart';
 export 'package:image_cropper/image_cropper.dart';
 export 'package:permission_handler/permission_handler.dart';
 export 'package:shared_preferences/shared_preferences.dart';
-export 'package:unicons/unicons.dart';
+// export 'package:unicons/unicons.dart';
 export 'package:camera/camera.dart';
 export 'package:provider/provider.dart';
 // export 'package:flutter_stripe/flutter_stripe.dart' hide Card;

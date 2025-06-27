@@ -1,5 +1,6 @@
 import 'package:line_icons/line_icons.dart';
 import 'package:socialverse/export.dart';
+import 'package:unicons/unicons.dart';
 
 class InviteScreen extends StatelessWidget {
   static const String routeName = '/invite';

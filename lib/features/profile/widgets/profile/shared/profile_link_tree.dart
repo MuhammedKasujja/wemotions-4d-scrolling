@@ -1,4 +1,5 @@
 import 'package:socialverse/export.dart';
+import 'package:unicons/unicons.dart';
 
 class ProfileLinkTree extends StatelessWidget {
   const ProfileLinkTree({
